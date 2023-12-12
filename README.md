@@ -67,12 +67,12 @@
 ---
 ### 🟡 Тестовые артефакты  
 
-<a href="" target="_blank">Web testing</a> (тест-план, чек-листы, тест-кейсы, баг-репорты)  
-<a href="" target="_blank">Mobile testing</a> (чек-листы, тест-кейсы, баг-репорты, отчет о тестировании)  
-<a href="" target="_blank">Postman коллекция</a> (Pet.Swagger.io коллекция запросов)  
-<a href="https://github.com/Dzianis-Brahinets/Database.git" target="_blank">Databases</a> (работа с базами данных в MySQL и mongoDB)  
-<a href="" target="_blank">CharlesProxy setup Win&Android</a> (перехват и анализ трафика, подмена запросов)
-<a href="" target="_blank">Git и Bash</a> (Команды Git и Bash)
+<li> <a href="" target="_blank">Web testing</a> (тест-план, чек-листы, тест-кейсы, баг-репорты) </li> 
+<li> <a href="" target="_blank">Mobile testing</a> (чек-листы, тест-кейсы, баг-репорты, отчет о тестировании) </li> 
+<li> <a href="" target="_blank">Postman коллекция</a> (Pet.Swagger.io коллекция запросов) </li> 
+<li> <a href="https://github.com/Dzianis-Brahinets/Database.git" target="_blank">Databases</a> (работа с базами данных в MySQL и mongoDB) </li> 
+<li> <a href="" target="_blank">CharlesProxy с установкой на Win&Android</a> (перехват и анализ трафика, подмена запросов) </li> 
+<li> <a href="" target="_blank">Git и Bash</a> (Команды Git и Bash) </li> 
            
 ---
  ### 💻 Пройденные курсы:
