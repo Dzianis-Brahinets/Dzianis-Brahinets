@@ -11,6 +11,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=gmail&logoColor=FF0000)](mailto:denn.braginec@gmail.com)
 
 <hr>
+
 ### 🔵 Технологии и инструменты 
 
 <div>
@@ -45,6 +46,7 @@
 
 
 <hr>
+
 ### 🟡 Тестовые артефакты  
 
 <li> <a href="https://github.com/Dzianis-Brahinets/Web-Testing.git" target="_blank">Web testing</a> (тест-план, чек-листы, тест-кейсы, баг-репорты) </li> 
@@ -54,8 +56,9 @@
 <li> <a href="https://github.com/Dzianis-Brahinets/Charles-proxy.git" target="_blank">Перехват трафика с помощью CharlesProxy</a> (перехват и анализ трафика, подмена запросов) </li> 
 <li> <a href="https://github.com/Dzianis-Brahinets/Bash.git" target="_blank">Bash</a> (Команды Bash) </li> 
 <li> <a href="https://github.com/Dzianis-Brahinets/Git.git" target="_blank">Git</a> (Команды Git) </li> 
-           
+          
 <hr>
+
  ### 💻 Пройденные курсы:
 
 | Курсы                                                           | Дата              |
