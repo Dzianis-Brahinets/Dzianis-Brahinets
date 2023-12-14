@@ -47,9 +47,9 @@
 ---
 ### 🟡 Тестовые артефакты  
 
-<li> <a href="git@github.com:Dzianis-Brahinets/Web-Testing.git" target="_blank">Web testing</a> (тест-план, чек-листы, тест-кейсы, баг-репорты) </li> 
-<li> <a href="git@github.com:Dzianis-Brahinets/Mobile-Testing.git" target="_blank">Mobile testing</a> (чек-листы, тест-кейсы, баг-репорты, отчет о тестировании) </li> 
-<li> <a href="git@github.com:Dzianis-Brahinets/Postman.git" target="_blank">Postman коллекция</a> (Pet.Swagger.io коллекция запросов) </li> 
+<li> <a href="https://github.com/Dzianis-Brahinets/Web-Testing.git" target="_blank">Web testing</a> (тест-план, чек-листы, тест-кейсы, баг-репорты) </li> 
+<li> <a href="https://github.com/Dzianis-Brahinets/Mobile-Testing.git" target="_blank">Mobile testing</a> (чек-листы, тест-кейсы, баг-репорты, отчет о тестировании) </li> 
+<li> <a href="https://github.com/Dzianis-Brahinets/Postman.git" target="_blank">Postman коллекция</a> (Pet.Swagger.io коллекция запросов) </li> 
 <li> <a href="https://github.com/Dzianis-Brahinets/Database.git" target="_blank">Databases</a> (работа с базами данных в MySQL и mongoDB) </li> 
 <li> <a href="" target="_blank">Перехват трафика с помощью CharlesProxy</a> (перехват и анализ трафика, подмена запросов) </li> 
 <li> <a href="" target="_blank">Git и Bash</a> (Команды Git и Bash) </li> 
