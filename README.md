@@ -1,12 +1,13 @@
 <img src="https://miro.medium.com/v2/resize:fit:800/1*panuLBsXTjypTQ_kwF2FWg.png" title="logo" alt="logo" width="400" height="300"/>
 
-# Привет!
+<h2>Привет!</h2>
 
 <hr>
 
 <h3>Меня зовут Денис и я QA-инженер. Здесь я хочу поделиться некоторыми элементами портфолио веб-тестирования и мобильного тестирования, полученными во время учебы.</h3>
 
-<p>  📫 Как связаться со мной: 
+<h4>  Контакты для связи со мной:</h4>
+<p>
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/dzianis-brahinets/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=gmail&logoColor=FF0000)](mailto:denn.braginec@gmail.com)
