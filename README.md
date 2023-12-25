@@ -2,7 +2,7 @@
 
 <h2>Привет!</h2>
 
-<hr>
+
 
 <h3>Меня зовут Денис и я QA-инженер. Я из Беларуси. Здесь я хочу поделиться некоторыми элементами портфолио веб-тестирования и мобильного тестирования, полученными во время учебы.</h3>
 
@@ -12,6 +12,9 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/dzianis-brahinets/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=gmail&logoColor=FF0000)](mailto:denn.braginec@gmail.com)
 </p>
+<hr>
+<h3><a href="" target="_blank">Моё резюме</a></h3>
+
 <hr>
 
 ### 🔵 Технологии и инструменты 
