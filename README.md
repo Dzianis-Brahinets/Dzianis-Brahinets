@@ -15,7 +15,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=gmail&logoColor=FF0000)](mailto:denn.braginec@gmail.com)
 </p>
 <hr>
-<h3><a href="https://drive.google.com/file/d/1ogeIwB0opPgtPmRiwQVxNfja62pZx4-t/view?usp=sharing" target="_blank">Моё резюме</a></h3>
+<h3><a href="https://drive.google.com/file/d/1kMIkQbRQfK1YQj57D80-zWCyoTgPCI52/view?usp=sharing" target="_blank">Моё резюме</a></h3>
 
 <hr>
 
