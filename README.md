@@ -1,7 +1,7 @@
 <img src="https://miro.medium.com/v2/resize:fit:800/1*panuLBsXTjypTQ_kwF2FWg.png" title="logo" alt="logo" width="400" height="300"/>
 
 <h2>Привет! Меня зовут Денис и я QA-инженер.</h2>
-<h3>Окончил курс "Тестирования ПО. Артёма Русова.<br>
+<h3>Окончил курс "Тестирования ПО. Артёма Русова".<br>
  Имею опыт создания тестовой документации. Проводил веб-тестирование с использование DevTools.<br>
  Тестировал мобильное приложение на реальном девайсе подключенном к Android Studio.<br>
  Тестировал API в Postman. Работал с базами данных в MySQL (Select, Join, Delete) и MongoDB.<br>
