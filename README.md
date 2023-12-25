@@ -63,4 +63,7 @@
 <hr>
 
 ### 📜Сертификаты:
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Dzianis-Brahinets)
+
+![Visitor Badge][def]
+
+[def]: https://visitor-badge.laobi.icu/badge?page_id=Dzianis-Brahinets
